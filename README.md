@@ -10,8 +10,8 @@
 
 [![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-yellow?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/niyazbadar/MBYC-Poster/raw/main/MBYC_poster.pdf)
 
-###### Team Members ✨
+###### Poster By ✨
 
-<a href="https://github.com/niyazbadar/MBYC-Poster/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=niyazbadar/Drowning-Awarness-Poster" />
+<a href="https://github.com/Mus1ak/Drowning-Awarness-Poster/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Mus1ak/Drowning-Awarness-Poster" />
 </a>
