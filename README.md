@@ -3,7 +3,7 @@
 ```Poster```
 
 <div>
-    <img src="https://cdn.discordapp.com/attachments/453441764590878721/1075103450578292797/Drowning_awareness_poster.png"/>
+    <img src="https://cdn.discordapp.com/attachments/453441764590878721/1075108626261348372/Drowning-Awareness-poster_1.png"/>
 </div>
 
 ``` Download Full Quality Poster ```
